@@ -1,0 +1,7 @@
+name: ethambda
+-- version: 0.0.1
+-- description:
+depend:
+  agda-prelude
+include:
+  src
